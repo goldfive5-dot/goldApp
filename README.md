@@ -1,2 +1,2 @@
 # goldApp
-自建手機APP
+自建第一個手機APP
